@@ -65,6 +65,3 @@ A **Fila Circular** funciona como uma fila comum (FIFO), mas reaproveita espaço
 
 **Fila Circular é uma fila FIFO implementada sobre um vetor circular, que reaproveita espaços vazios ao retornar ao início quando chega ao fim.**
 
----
-
-*(Quando você enviar a foto dos requisitos cumpridos, eu integro aqui como seção final ou checklist.)*
